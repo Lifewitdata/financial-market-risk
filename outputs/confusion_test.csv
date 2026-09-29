@@ -1,0 +1,13 @@
+model,actual,predicted,n
+baseline_rule,0,0,263
+baseline_rule,0,1,96
+baseline_rule,1,0,97
+baseline_rule,1,1,62
+logistic,0,0,283
+logistic,0,1,76
+logistic,1,0,67
+logistic,1,1,92
+random_forest,0,0,295
+random_forest,0,1,64
+random_forest,1,0,72
+random_forest,1,1,87

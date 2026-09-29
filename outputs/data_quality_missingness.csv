@@ -1,0 +1,12 @@
+variable,n_missing,pct_missing
+date,0,0
+ticker,0,0
+open,0,0
+high,0,0
+low,0,0
+close,0,0
+volume,0,0
+daily_return,0,0
+realized_volatility_5d,4,0.26
+realized_volatility_20d,19,1.21
+high_volatility_next_5d,5,0.32
